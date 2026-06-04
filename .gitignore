@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model weights
+*.h5
+*.keras
+*.weights
+
+# Generated images
+sample_images.png
+training_history.png
+test_predictions.png
+
+# macOS
+.DS_Store
+
+# Data files
+*.npz
+*.npy
+/data/
+
+# Logs
+*.log
